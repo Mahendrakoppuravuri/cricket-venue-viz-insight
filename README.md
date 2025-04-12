@@ -2,11 +2,9 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/6819b883-2adf-4073-89ef-fc9f47472f0a
+**URL**: [LINK](https://preview--cricket-venue-viz-insight.lovable.app/)
 
-## How can I edit this code?
 
-There are several ways of editing your application.
 
 
 
